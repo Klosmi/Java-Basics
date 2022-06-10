@@ -18,3 +18,5 @@
 ##### [escape sequences](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#escape-sequences)
 ##### [arrays](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#arrays)
 ##### [multidimensional arrays](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#multidimensional-arrays)
+##### [constants](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#constants)
+##### [arithmetic expression](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#arithmetic-expression)
