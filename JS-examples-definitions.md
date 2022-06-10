@@ -2,7 +2,7 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 
 ## [Functions](https://www.learnjavaonline.org/en/Functions)
 Creating a functions
-- specify the __return type__ of the function: some reurn a value, some returns nothing.
+- it. specifies the __return type__ of the function: some returns a value, some returns nothing.
 
 <br>
 
