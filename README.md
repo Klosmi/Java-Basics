@@ -20,4 +20,6 @@
 ##### [multidimensional arrays](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#multidimensional-arrays)
 ##### [constants](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#constants)
 ##### [arithmetic expression](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#arithmetic-expression)
-##### [castings](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#casting)
+##### [casting](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#casting)
+###### [widening/implicit casting](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#widening-casting-or-implicit-casting)
+###### [narrowing/explicit casting](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#narrowing-casting-explicit-casting)
