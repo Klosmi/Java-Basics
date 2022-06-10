@@ -82,7 +82,7 @@ converts the primitive data (integer, character) into the text format instead of
     public class Main {
         public static void main(String[] args) {
 
-            System.out.println("Hello world!");     //← prin line
+            System.out.println("Hello world!");     //← print line
         }
     }
   ```
