@@ -4,18 +4,26 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 Creating a functions
 - specify the __return type__ of the function: some reurn a value, some returns nothing.
 
+<br>
+
 #### __[`void`](https://www.w3schools.com/java/ref_keyword_void.asp#:~:text=The%20void%20keyword%20specifies%20that,not%20have%20a%20return%20value.)__ + `nameOfTheFunction(parameter)` + `{ }` →    
 The `void` keyword specifies that a method should not have a return value. 
+
+<br>
 
 #### __[`main()`](https://www.geeksforgeeks.org/java-main-method-public-static-void-main-string-args/)__    
 is the entry point to our program.   
 Whenever using `main`, the `main` gets called and the code inside it will be executed.
+
+<br>
 
 #### __[class](https://www.javatpoint.com/object-and-class-in-java)__    
 a container of one or more related functions.   
   - A __class__ is a template used to create objects and to define object data types and methods.    
   - Every Java program has atleast 1 class that contains the `main` function.  
   - PascalNamaingConverntion (classes start with a Capital letter)
+
+<br>
 
 #### __[methods](https://www.javatpoint.com/method-in-java)__: 
 is a block of code or collection of statements or a set of code grouped together to perform a certain task or operation. It is used to achieve the reusability of code.    
@@ -30,6 +38,7 @@ class Main {
 }
 ```
 
+<br>
 
 #### __[access modifiers](https://www.geeksforgeeks.org/access-modifiers-java/)__   
 in Java specifies the accessibility or scope of a field, method, constructor, or class.   
@@ -44,6 +53,8 @@ public class Main {         //← main class
 
 ```
 
+<br>
+
 #### __package__    
 to group related classes. 
   - the base package is the domain name of your the company:  `com.whatever`
@@ -53,6 +64,8 @@ to group related classes.
 - all Java file has a `.java` extension
 
 - `//` comment
+
+<br>
 
 #### [`PrintStream`](https://www.programiz.com/java-programming/printstream#:~:text=Unlike%20other%20output%20streams%2C%20the,throw%20any%20input%2Foutput%20exception.):     
 converts the primitive data (integer, character) into the text format instead of bytes.
@@ -69,6 +82,8 @@ converts the primitive data (integer, character) into the text format instead of
         }
     }
   ```
+
+<br>
 
 #### __[compilation](https://www.theserverside.com/definition/Java-compiler)__: 
 a Java compiler is a program that takes the text file work of a developer and compiles it into a platform-independent Java file. 
