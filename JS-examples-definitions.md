@@ -636,7 +636,7 @@ public class Main {
 #### __[Casting](https://www.javatpoint.com/type-casting-in-java)__
 Converts a data type into another data type in both ways manually and automatically.
 
-__Widening Casting or Implicit casting__
+###### __Widening Casting or Implicit casting__
 
 - no data loss
 
@@ -660,7 +660,7 @@ __Widening Casting or Implicit casting__
 
   // 3
   ```
- __Narrowing Casting (Explicit Casting)__
+###### __Narrowing Casting (Explicit Casting)__
 
  - eg.:
  *We want to see `3` as a result. but we have a `double` and and an `int`. We have to __explicityl cast__ the result.*    
@@ -680,7 +680,7 @@ __Widening Casting or Implicit casting__
   // 3
   ```
 
-__`parese.Int`__
+__`parse.Int`__
 
   Casting can happen between compatible type. A string can't cast with a number. But with the `Integer` class we can use the `parseInt()` method, which turns a `String` `"1"` into number.   
   - eg.:   
