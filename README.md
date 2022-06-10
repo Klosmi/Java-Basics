@@ -1,2 +1,3 @@
-# Java-Basics
-Very basics of Java
+# Java language basics
+
+[Functions]()
