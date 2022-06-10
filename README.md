@@ -15,3 +15,6 @@
 ##### [reference types](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#reference-types)
 ##### [primitive vs reference types](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#primitive-vs-reference-types)
 ##### [strings](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#strings)
+##### [escape sequences](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#escape-sequences)
+##### [arrays](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#arrays)
+##### [multidimensional arrays](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#multidimensional-arrays)
