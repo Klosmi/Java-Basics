@@ -2,7 +2,7 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 
 ## [Functions](https://www.learnjavaonline.org/en/Functions)
 Creating a functions
-- it specifies the __return type__ of the function: some returns a value, some returns nothing.
+- we have to specify the __return type__ of the function: some returns a value, some returns nothing.
 
 <br>
 
@@ -82,7 +82,7 @@ converts the primitive data (integer, character) into the text format instead of
     public class Main {
         public static void main(String[] args) {
 
-            System.out.println("Hello world!");     //← print line
+            System.out.println("Hello world!");     //← prin line
         }
     }
   ```
