@@ -808,8 +808,8 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
         System.out.print("Age: ");
-        byte age = scanner.nextByte();
-        System.out.print("You are " + age);       // to have the same line, we just use `print` and not `println`
+        byte age = scanner.nextByte();            //← nextByte() function returns the byte scanned from the input.
+        System.out.print("You are " + age);       //← to have the same line, we just use `print` and not `println`
     }
 }
 
