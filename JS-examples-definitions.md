@@ -828,7 +828,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);       
         System.out.print("Your name is: ");
-        String name = scanner.next();
+        String name = scanner.next();                 //← next() method finds and returns the next complete token from this scanner.
         System.out.println("You are " + name);
     }
 }
