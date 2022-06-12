@@ -1,6 +1,8 @@
 __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
 
 ## [Functions](https://www.learnjavaonline.org/en/Functions)
+Function is a block of code that performs a task.
+
 Creating a functions
 - we have to specify the __return type__ of the function: some returns a value, some returns nothing.
 
