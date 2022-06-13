@@ -117,6 +117,10 @@ a Java compiler is a program that takes the text file work of a developer and co
 
 <br>
 
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
+
 ## [Data Types](https://www.javatpoint.com/java-data-types) 
 Data types specify the different sizes and values that can be stored in the variable. There are two types of data types in Java:
 
@@ -164,7 +168,11 @@ Data types specify the different sizes and values that can be stored in the vari
 
 <br> 
 
-  #### [Primitive types](https://www.baeldung.com/java-primitives#:~:text=2.-,Primitive%20Data%20Types,about%20memory%20management%20in%20Java):
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
+
+#### [Primitive types](https://www.baeldung.com/java-primitives#:~:text=2.-,Primitive%20Data%20Types,about%20memory%20management%20in%20Java):
   to store simple values
 
 
@@ -205,6 +213,10 @@ Data types specify the different sizes and values that can be stored in the vari
 
 <br>
 
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
+
 #### [Reference types](https://www.geeksforgeeks.org/types-references-java/):
 to store complex objects (date, mail messages, etc.)
 - we have to use the `new` keyword, to allocate memory for the variable
@@ -232,6 +244,10 @@ Eg. `today.getTime()`
       }
   }
 ```
+
+<br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
 
 <br>
 
@@ -290,6 +306,10 @@ The difference between these two types are also in the memory management.
 
 <br>
 
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
+
 #### __[Strings](https://www.javatpoint.com/java-string)__  
 
 String literal = string value →"Hello World" from the  `System.out.println("Hello World") 
@@ -327,6 +347,10 @@ String literal = string value →"Hello World" from the  `System.out.println("He
   // Hello World**
   // true
   ```
+
+<br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
 
 <br>
 
@@ -378,6 +402,11 @@ public class Main {
 __`\t`__    
 adds a tab
 
+<br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
 
 #### __[Arrays](https://www.geeksforgeeks.org/arrays-in-java/)__
 we use arrays to store a list of items. 
@@ -440,6 +469,10 @@ public class Main {
 
 // [1, 2, 3, 4, 5]
 ```
+
+<br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
 
 <br>
 
@@ -517,6 +550,10 @@ public class Main {
     }
 }
 ```
+
+<br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
 
 <br>
 
@@ -635,6 +672,10 @@ public class Main {
 
 <br>
 
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
+
 #### __[Casting](https://www.javatpoint.com/type-casting-in-java)__
 Converts a data type into another data type in both ways manually and automatically.
 
@@ -698,6 +739,11 @@ __`parse.Int`__
       }
   }
   ```
+<br>
+
+ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
 
 #### __[Math Class](https://www.javatpoint.com/java-math)__   
 Math class provides several methods to work on math calculations like min(), max(), avg(), sin(), cos(), tan(), round(), ceil(), floor(), abs() etc.   
@@ -728,6 +774,10 @@ public class Main {
 // 2
 // 96
 ```
+
+<br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
 
 <br>
 
@@ -791,6 +841,12 @@ NumberFormat allows us to round values, set decimal separators, set the number o
       }
   }
   ```
+ 
+<br>
+ 
+ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
 
 #### __[Reading Input](https://www.javatpoint.com/how-to-get-input-from-user-in-java)__
 Java `Scanner` class allows the user to take input from the console.
@@ -857,3 +913,522 @@ public class Main {
 // Your full name is: John Doe
 // "You are John Doe"
 ```
+
+<br>
+
+## __[Control Flow | Control Statements](https://www.javatpoint.com/control-flow-in-java)__    
+ Java provides statements that can be used to control the flow of Java code. Such statements are called control flow statements.   
+
+<br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
+
+### __Comparison Operators](https://ecomputernotes.com/java/what-is-java-operators-and-expressions/comparison-operators)__    
+to compare primitive values
+
+- __`==`__ → equality operator: boolean expression (TRUE / FALSE)
+  - eg.:   
+    *Equality Operator*   
+    ```
+    package com.exercise;
+
+    public class Main {
+        public static void main(String[] args) {
+            int x = 1;
+            int y = 1;
+            System.out.println(x == y);
+
+        }
+    }
+
+    // true
+    ```
+- __`!=`__ → inequality operator: boolean expression    
+
+- __`>=`__ → greater than or greater than and equal to operator 
+
+<br> 
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
+
+### __[Logical Operators](https://www.geeksforgeeks.org/java-logical-operators-with-examples/)__    
+These operators are used to perform logical “AND”, “OR” and “NOT” operation.
+
+- [`boolean`](https://www.w3schools.com/java/java_booleans.asp) type is declared with boolean keyword!
+
+- __`&&`__ → logical AND operator
+  - eg.:   
+    *We want to combine multiple boolean expression Logical operators come handy.*    
+    *TRUE, because both expressions are true.*
+    ```
+    package com.exercise;
+
+    public class Main {
+        public static void main(String[] args) {
+            int temperature = 22;
+            boolean isWarm = temperature > 20 && temperature < 30;      //← boolean type is declared with boolean keyword
+            System.out.println(isWarm);
+        }
+    }
+
+    // true
+    ```
+- __`||`__ → logical OR operator
+  - eg.:   
+    *If both expressions are true, result is true. If one expression is true other is false, result is true.*
+    ```
+    package com.exercise;
+
+    public class Main {
+        public static void main(String[] args) {
+            boolean hasHighIncome = true;
+            boolean hasGoodCredit = false;
+            boolean isEligible = hasHighIncome || hasGoodCredit;
+            System.out.println(isEligible);
+        }
+    }
+
+    // true
+    ```
+
+- __`!`__ → logical NOT operator: to reverse a value
+
+  - eg.:   
+    *The NOT operator `!`*    
+    *To be eligible for loan, the person should have high income, or good credit, and no criminal record.*
+    ```
+    package com.exercise;
+
+    public class Main {
+        public static void main(String[] args) {
+            boolean hasHighIncome = false;
+            boolean hasGoodCredit = true;
+            boolean hasCriminalRecord = false;
+            boolean isEligible = (hasHighIncome || hasGoodCredit) && !hasCriminalRecord;
+            System.out.println(isEligible);
+        }
+    }
+
+    // true
+    ```
+
+<br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
+
+### __[IF/IF-ELSE Statments](https://www.javatpoint.com/java-if-else)__        
+test the condition. It checks boolean condition: true or false.
+It allows us to make programs that based on certain decisions.
+
+- __`if (thing <= anything) do something`__  
+  When we have a single statmenet, we don't need to use curly braces `{}`, but it is optional.  
+  If we have __multiple statements, curly braces `{}` are required__.
+
+- __`else if (otherthing > anything) do something`__    
+  We use else if after the if statement.
+
+- __`else`__ The last clause, it runs if of the previous statements were false. 
+
+- eg.:    
+  *If the temperature is hot we print out to the user to drink water ,if its between 20 & 30°C we print out it's a nice day, otherwise it's a cold day.*
+  ```
+  package com.exercise;
+
+  public class Main {
+      public static void main(String[] args) {
+          int temp = 32;
+          if (temp > 30) {
+              System.out.println("It's a hot day.");
+              System.out.println("Drink water.");
+          } else if (temp >20 && temp <= 30) {
+              System.out.println("Beatiful day.");
+          } else {
+              System.out.println("Cold day");
+          }
+      }
+  }
+
+  // It's a hot day.
+  // Drink water.
+  ```
+
+<br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
+
+#### __Simplifiying IF statement(s)__    
+
+- eg.:   
+  *We can get rid of the `if` and `else`, when we have only a boolean which has to be true. We can set a variable `hasHighIncome` to a boolean expression `income > 100_000;`. If it's true, it executes.*
+  ```
+  package com.exercise;
+
+  public class Main {
+      public static void main(String[] args) {
+          int income = 120_000;
+          boolean hasHighIncome = income > 100_000;
+          System.out.println(hasHighIncome);
+      }
+  }
+
+  // true
+  ```
+
+- eg.:   
+  *FizzBuzz*   
+  ```
+  package com.fizzbuzz;
+
+  import java.util.Scanner;
+
+  public class Main {
+      public static void main(String[] args) {
+          // if the number is divisible by 5 we get fizz
+          // if the number is divisible by 3 we get buzz
+          // if the number is divisible by both 3 and 5 we get fizzbuzz
+          // if the number is not divisible by 3 or 5 we print out the same number
+          Scanner scanner = new Scanner(System.in);
+          System.out.print("Give a number:" );
+          int num = scanner.nextInt();
+
+          if (num % 5 == 0){                          //← DRY code ↴
+              if (num % 3 == 0)                       // we see if its divisible by 5 then if yes by 3. If only 5 then "Fizz"
+                  System.out.println("FizzBuzz");
+              else System.out.println("Fizz");
+          }
+          else if (num % 3 == 0)
+              System.out.println("Buzz");
+          else
+              System.out.println(num);
+
+          }
+  }
+  ```
+
+<br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
+
+#### __[The Ternary Operator](https://www.geeksforgeeks.org/java-ternary-operator-with-examples/)__    
+A ternary operator evaluates the test condition and executes a block of code based on the result of the condition.
+
+- __`variable = Expression1 ? Expression2: Expression3`__
+
+- eg.:
+  *Pro way*    
+  *If the `income` is greater than 100_000 we put it in the first class, otherwise to the economy class.*   
+
+  *We have a string variable  which we want to set to adifferent string depending on the result of the expression. (We can not set it to a boolean, because it is a string type.) So we use the Teranry operator.*
+  ```
+  package com.exercise;
+
+  public class Main {
+      public static void main(String[] args) {
+          int income = 120_000;
+          String className = income > 100_00 ? "First" : "Economy";
+          System.out.println(className);
+      }
+  }
+
+  // "First"
+  ```
+
+
+  *The same code in an amateur way*
+  ```
+  package com.exercise;
+
+  public class Main {
+      public static void main(String[] args) {
+          int income = 120_000;
+          String className;                           //← declare a className variable.
+          if (income > 100_000)
+              className = "First";
+          else
+              className = "Economy";
+      }
+  }
+
+  // "First"
+  ```   
+
+<br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
+
+#### __[Switch Statement](https://beginnersbook.com/2017/08/java-switch-case/)__
+  switch statement executes one statement from multiple conditions. It is like an if-else-if ladder statement.  
+  So it is used when we have number of options (or choices) and we may need to perform a different task for each choice.
+
+  - syntax:
+    ```
+    switch (variable) {
+      case something:
+        do something
+      break;
+    }
+    ```
+
+  - eg.:   
+    *The program check kthe different role of the user, we print out different messages depending on the role.*   
+    *`switch` we add the variable, ni the block `{}` we give different `case clauses`.* 
+
+    *We use `break` at the end of our clause, except the last case. `break` jumps out of the block if the statement is true. If we don't use `break`, it automatically goes to the next clause.*
+    ```
+    package com.exercise;
+
+    public class Main {
+        public static void main(String[] args) {
+            int role = 1;
+
+            switch (role) {
+                case 1:                                   //← case clauses
+                    System.out.println("You are an admin");
+                    break;                                      //← break out if it's true
+
+                case 2:
+                    System.out.println("You are a moderator");
+                    break;
+
+                default:
+                    System.out.println("You are a guest");       //← no need to use break, it's end of the switch block
+            }
+        }
+
+    }
+
+    // You are an admin
+    ```
+<br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
+
+#### __[For Loops](https://www.javatpoint.com/java-for-loop)
+   for loop is used to iterate (repeat) a part of the program several times.
+
+  -eg.:   
+    *5 times "Hello World!"*   
+    *If it's 1 line expression, no need `{}`*
+    ```
+    package com.exercise;
+
+    public class Main {
+        public static void main(String[] args) {
+            for (int i = 0; i < 5; i++) 
+                System.out.println("Hello World!");
+        }
+    }
+
+    // "Hello World!"
+    // "Hello World!"
+    // "Hello World!"
+    // "Hello World!"
+    // "Hello World!"
+    ```
+
+<br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>   
+   
+#### __[While Loops](https://www.javatpoint.com/java-while-loop)__
+    while loop is used to iterate a part of the program repeatedly until the specified Boolean condition is true. As soon as the Boolean condition becomes false, the loop automatically stops.
+
+- while loops are used when we don't know how many times we wiant to repeat something.
+
+- eg.:   
+  *5 time "Hello World!"*
+  ```
+  package com.exercise;
+
+  public class Main {
+      public static void main(String[] args) {
+          int i = 0;
+          while (i < 5) {
+              System.out.println("Hello World! ");
+              i++;
+          }
+
+      }
+  }
+  ```
+
+- eg.:  
+  *When we don't know how many times the loop has to run, therfore we use while loop.*     
+  *The user can write anything many times. When the user writes "quit" the program stops.*   
+
+  *We compare if `input` is equal to `quit"`. We can not use the `input != "quit", because `input` is ` `String` a reference type, and we can not use comarison operators (`!=`) between reference types (technically it compares memory addresses of our String objects and not their value).*    
+  *We have to use the `input.equals()` method.*
+  ```
+  package com.exercise;
+
+  import java.util.Scanner;
+
+  public class Main {
+      public static void main(String[] args) {
+          Scanner scanner = new Scanner(System.in);
+          String input = "";
+          while (!input.equals("quit")) {                 //← ! = NOT EQUAL
+              System.out.print("Input: ");
+              input = scanner.next().toLowerCase();
+              System.out.println(input);
+          }
+
+      }
+  }
+  ```
+
+<br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
+
+#### __[Do..While Loops](https://www.javatpoint.com/java-do-while-loop)__
+ do-while loop is used to iterate a part of the program repeatedly, until the specified condition is true.     
+ If the number of iteration is not fixed and you __must have to execute the loop at least once__, it is recommended to use a do-while loop.   
+
+- eg.:   
+  *Do-While loops exeuted at least once, because it checks the condition in the end (compared to while loop where it check at teh beginning).*   
+  *The program quits when the user input "quit".*
+  ```
+  package com.exercise;
+
+  import java.util.Scanner;
+
+  public class Main {
+      public static void main(String[] args) {
+          Scanner scanner = new Scanner(System.in);
+          String input = "";
+          do {
+              System.out.print("Input: ");
+              input = scanner.next().toLowerCase();
+              System.out.println(input);
+          } while (!input.equals("quit"));
+      }
+  }
+  ```
+
+<br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
+
+#### __[Break and Continue](https://www.geeksforgeeks.org/break-and-continue-statement-in-java/)__
+The __break and continue__ statements are the jump statements that are used to skip some statements inside the loop or terminate the loop immediately without checking the test expression.    
+
+- __`break;`__   
+    When Java sees the `break;` statement it ignores everything after and it terminates the loop.   
+  - eg.:   
+    *The program quits when the user input "quit", BUT the "quit" echoes back, so it appears after the user wrote "quit". To avoid this, we are using the __`break;`__ statement.*
+    ```
+    package com.exercise;
+
+    import java.util.Scanner;
+
+    public class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            String input = "";
+            while (true) {                //← we can also write `input.equals("quit")`
+                System.out.print("Input: ");
+                input = scanner.next().toLowerCase();
+                if(input.equals("quit"))                   //← if the user write quit, it break out of the loop. So we remove the NOT operator.
+                    break;
+                System.out.println(input);
+            }
+        }
+    }
+    ```
+
+
+- __`continue`__    
+  When Java sees the `continue` statement, it moves the control to the beggining of the loop.   
+
+  - eg.:   
+  
+    *The program quits when the user input "quit".*   
+    *If the user types "pass", we don't want to echo that and we don't want to terminate the loop, we ask the user to, so the user can try one more time.*    
+    *That is where we are using `continue`.*   
+
+    ```
+    package com.exercise;
+
+    import java.util.Scanner;
+
+    public class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            String input = "";
+            while (true) {                                 //← we can also write `input.equals("quit")`
+                System.out.print("Input: ");
+                input = scanner.next().toLowerCase();
+                if (input.equals("pass"))
+                    continue;                              //← it moves the control to the beginning of the loop (to the `while` part
+                if(input.equals("quit"))                   //← if the user write quit, it break out of the loop. So we remove the NOT operator.
+                    break;
+                System.out.println(input);
+            }
+        }
+    }
+    ```
+ 
+ <br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
+
+#### __[For-Each Loop](https://www.geeksforgeeks.org/for-each-loop-in-java/)__
+  it is used exclusively to loop through elements in an __array__ or __collection__.
+
+- syntax:   
+  ```
+  for (type variableName : arrayName) {
+    // code block to be executed
+  }
+  ```
+
+- eg.:    
+  *We initialise a String array by `String[] variableName = {"x", "y", "z"};`*    
+  *We itarate throught the array to print out each element of the array. We use the __easiest__ way which is the __for-each loop__*   
+  *(Btw, we can use any other loop iteration for this exercise.)*
+  ```
+  package com.exercise;
+
+  import java.util.Scanner;
+
+  public class Main {
+      public static void main(String[] args) {
+          String[] fruits = { "apple", "mango",  "orange"};
+
+        for (String fruit : fruits)                         //← fruit has to be a String as our array is a String
+            System.out.println(fruit);
+      }
+
+  // apple
+  // mango
+  // orange
+  ```
+
+__Limitations of the `for each` loop__:
+  - forward only (can not iterate from the end to the beginning)
+  - we don't have access to the index of each item
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
