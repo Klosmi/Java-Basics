@@ -243,8 +243,9 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
   - long:   8 bytes of the memory and large numbers
 
 <br>
-   - float:  4 bytes of the memory
-   - double: 8 bytes of the memory
+
+   - float:  4 bytes of the memory   
+   - double: 8 bytes of the memory   
 
 <br>
 
