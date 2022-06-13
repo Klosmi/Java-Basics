@@ -29,7 +29,7 @@
 ## [Control Flow | Control Statements](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#control-flow--control-statements)   
 #### [Comparison Operators](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#comparison-operators)
 #### [Logical Operators](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#logical-operators)
-#### [IF/IF-ELSE Statments](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#logical-operators](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#ifif-else-statments)](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#ifif-else-statments))
+#### [IF/IF-ELSE Statments](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#ifif-else-statments)
 ###### [Simplifiying IF statement(s)](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#simplifiying-if-statements)
 #### [The Ternary Operator](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#the-ternary-operator)
 #### [Switch Statement](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#switch-statement)
