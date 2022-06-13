@@ -925,7 +925,7 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 
 <br>
 
-### __Comparison Operators](https://ecomputernotes.com/java/what-is-java-operators-and-expressions/comparison-operators)__    
+### __[Comparison Operators](https://ecomputernotes.com/java/what-is-java-operators-and-expressions/comparison-operators)__    
 to compare primitive values
 
 - __`==`__ → equality operator: boolean expression (TRUE / FALSE)
