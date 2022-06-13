@@ -29,7 +29,7 @@ a container of one or more related functions.
 
 #### __[methods](https://www.javatpoint.com/method-in-java)__: 
 is a block of code or collection of statements or a set of code grouped together to perform a certain task or operation. It is used to achieve the reusability of code.    
-  - camelNamingConvention (firstletter is lowercase)
+  - camelNamingConvention (the first letter is lowercase)
   - a __method__ is a function that is part of a class. 
 
 ```
