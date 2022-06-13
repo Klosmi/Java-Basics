@@ -168,7 +168,7 @@ Java main method is the entry point of any java program.
 Its syntax is always `public static void main(String[] args)` *(we can only change the name of String array argument, for example we can change `args` to `myStringArgs[]`)*.
 
 - __public__: any object can use the main method. 
-  - it is an access modifier. Specifies whoe and where can access this method. 
+  - it is an access modifier. Specifies where and who can access this method. 
   - public means that it can be called from anywhere. 
 - __static__: it is used that the `main()` method can be accessed directly by class name, instead of creating object of main class.   
   So, when java runtime starts, there is no object of the class present. 
