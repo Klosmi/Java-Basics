@@ -23,7 +23,7 @@ Whenever using `main`, the `main` gets called and the code inside it will be exe
 a container of one or more related functions.   
   - A __class__ is a template used to create objects and to define object data types and methods.    
   - Every Java program has atleast 1 class that contains the `main` function.  
-  - PascalNamaingConverntion (classes start with a Capital letter)
+  - PascalNamaingConvention (classes start with a Capital letter)
 
 <br>
 
