@@ -925,7 +925,7 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 
 <br>
 
-### __[Comparison Operators](https://ecomputernotes.com/java/what-is-java-operators-and-expressions/comparison-operators)__    
+#### __[Comparison Operators](https://ecomputernotes.com/java/what-is-java-operators-and-expressions/comparison-operators)__    
 to compare primitive values
 
 - __`==`__ → equality operator: boolean expression (TRUE / FALSE)
@@ -955,7 +955,7 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 
 <br>
 
-### __[Logical Operators](https://www.geeksforgeeks.org/java-logical-operators-with-examples/)__    
+#### __[Logical Operators](https://www.geeksforgeeks.org/java-logical-operators-with-examples/)__    
 These operators are used to perform logical “AND”, “OR” and “NOT” operation.
 
 - [`boolean`](https://www.w3schools.com/java/java_booleans.asp) type is declared with boolean keyword!
@@ -1022,7 +1022,7 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 
 <br>
 
-### __[IF/IF-ELSE Statments](https://www.javatpoint.com/java-if-else)__        
+#### __[IF/IF-ELSE Statments](https://www.javatpoint.com/java-if-else)__        
 test the condition. It checks boolean condition: true or false.
 It allows us to make programs that based on certain decisions.
 
@@ -1217,7 +1217,7 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 
 <br>
 
-#### __[For Loops](https://www.javatpoint.com/java-for-loop)
+#### __[For Loops](https://www.javatpoint.com/java-for-loop)__
    for loop is used to iterate (repeat) a part of the program several times.
 
   -eg.:   
