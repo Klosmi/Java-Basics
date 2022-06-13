@@ -13,6 +13,16 @@ The `void` keyword specifies that a method should not have a return value.
 
 <br>
 
+#### __[return](https://www.javatpoint.com/return-statement-in-java)__    
+ the return statement is used for returning a value when the execution of the block is completed.    
+ (The return statement inside a loop will cause the loop to break and further statements will be ignored by the compiler.)
+ 
+ - return types: int, float, double, string, etc.
+ - the `void` return type doesn't require any return statement. If we try to return a value from a void method, the compiler shows an error.
+ - 
+
+
+
 #### __[`main()`](https://www.geeksforgeeks.org/java-main-method-public-static-void-main-string-args/)__    
 is the entry point to our program.   
 Whenever using `main`, the `main` gets called and the code inside it will be executed.
