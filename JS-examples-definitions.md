@@ -237,28 +237,28 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 #### [Primitive types](https://www.baeldung.com/java-primitives#:~:text=2.-,Primitive%20Data%20Types,about%20memory%20management%20in%20Java):
   to store simple values
 
+  - byte :  1 byte of the memory and can take -128, 127 numbers
+  - short:  2 bytes of the memory and can take -32K, 32K numbers
+  - int:    4 bytes of the memory and can take -2Billion, 2Billion numbers
+  - long:   8 bytes of the memory and large numbers
 
-    - byte :  1 byte of the memory and can take -128, 127 numbers
-    - short:  2 bytes of the memory and can take -32K, 32K numbers
-    - int:    4 bytes of the memory and can take -2Billion, 2Billion numbers
-    - long:   8 bytes of the memory and large numbers
+<br>
+   - float:  4 bytes of the memory
+   - double: 8 bytes of the memory
 
-  <br>
-      - float:  4 bytes of the memory
-      - double: 8 bytes of the memory
+<br>
 
-  <br>
+  - char:   2 bytes of the memory: A,B,C,...`
 
-      - char:   2 bytes of the memory: A,B,C,...`
+<br>
 
-  <br>
-      - boolean: 1 byte, true/false 
+  - boolean: 1 byte, true/false 
 
   - eg.:   
 
   *Using different variables*
 
-```
+  ```
   package com.tuto;
 
   public class Main {
@@ -271,7 +271,7 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
           boolean isEligible = true;
       }
   }
-```
+  ```
 
 <br>
 
