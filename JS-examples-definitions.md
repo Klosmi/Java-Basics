@@ -131,6 +131,15 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 
 <br>
 
+__[What does `public static void public class main()` mean](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)     
+
+- __public__: any object can use the main method. 
+  - it is an access modifier. Specifies whoe and where can access this method. 
+  - public means that it can be called from anywhere. 
+- __static__: it is used that the `main()` method can be accessed directly by class name, instead of creating object of main class. 
+- __void__: signifies that `main()`method does not return any value.
+- __main__: it is an identifier (not a keyword). It is a name which is configured and is used by JVM to call the main method.
+
 ## [Data Types](https://www.javatpoint.com/java-data-types) 
 Data types specify the different sizes and values that can be stored in the variable. There are two types of data types in Java:
 
