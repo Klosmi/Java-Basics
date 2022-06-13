@@ -10,7 +10,7 @@
 #### [package](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#package)
 #### [PrintStream](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#printstream)
 #### [compilation](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#compilation)
-#### [What does public static void main(String[] args) mean?](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#what-does-public-static-void-mainstring-args-mean)
+#### [What does `public static void main(String[] args)` mean?](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#what-does-public-static-void-mainstring-args-mean)
 ## [Data types](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#data-types)
 #### [variables](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#variables)
 #### [primitive types](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#primitive-types)
