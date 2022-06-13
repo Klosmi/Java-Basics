@@ -18,8 +18,38 @@ The `void` keyword specifies that a method should not have a return value.
  (The return statement inside a loop will cause the loop to break and further statements will be ignored by the compiler.)
  
  - return types: int, float, double, string, etc.
- - the `void` return type doesn't require any return statement. If we try to return a value from a void method, the compiler shows an error.
- - 
+ - it is used to exit from a method, with or without a value.
+
+ - eg.:   
+   *We return the maximum of 2 numbers*
+   ```
+   package com.understandTheReturn;
+
+   public class Main {
+           public static void main(String[] args) {
+
+               int a = 10;                                         //← 3. defining variables which we use below in the max() method
+               int b = 20;
+               int maximum;
+
+               maximum = max(a, b);                                //← 4. after we've created the max() method (see below), we call it here in the main method to run it. The return value is stored in the maximum varibale.
+               // note the values: "a" wiill be "num1", "b" will be "num2"
+               System.out.println("The maximum is " + maximum) ;  //← 5. print out the maximum value
+           }
+
+           public static int max(int num1, int num2) {            //← 1. max method has 2 paramters and returns an int value
+               int result;
+               if(num1 > num2)
+                   result = num1;
+               else
+                   result = num2;
+
+               return result;                                      //← 2. returning the result's value
+           }
+   }
+
+   // The maximum is: 20
+   ```
 
 
 
@@ -131,14 +161,20 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 
 <br>
 
-__[What does `public static void public class main()` mean](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)     
+__[What does `public static void main(String[] args)` mean?](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)__   
+`public static void main(String[] args) is the most important Java method.`
+Java main method is the entry point of any java program.    
+Its syntax is always `public static void main(String[] args)` *(we can only change the name of String array argument, for example we can change` arg`s to `myStringArgs[]`)*.
 
 - __public__: any object can use the main method. 
   - it is an access modifier. Specifies whoe and where can access this method. 
   - public means that it can be called from anywhere. 
-- __static__: it is used that the `main()` method can be accessed directly by class name, instead of creating object of main class. 
-- __void__: signifies that `main()`method does not return any value.
+- __static__: it is used that the `main()` method can be accessed directly by class name, instead of creating object of main class.   
+  So, when java runtime starts, there is no object of the class present. 
+- __void__: signifies that `main()`method does not return any value.    
+    This has been done to keep things simple because once the main method is finished executing, java program terminates.
 - __main__: it is an identifier (not a keyword). It is a name which is configured and is used by JVM to call the main method.
+- __String[] args__: Java main method accepts a single argument of type String array. This is also called as java command line arguments. 
 
 ## [Data Types](https://www.javatpoint.com/java-data-types) 
 Data types specify the different sizes and values that can be stored in the variable. There are two types of data types in Java:
