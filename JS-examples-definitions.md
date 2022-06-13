@@ -161,7 +161,7 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 
 <br>
 
-__[What does public static void main(String[] args) mean?](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)__    
+#### __[What does public static void main(String[] args) mean?](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)__    
 
 `public static void main(String[] args) is the most important Java method.`
 Java main method is the entry point of any java program.    
@@ -176,6 +176,12 @@ Its syntax is always `public static void main(String[] args)` *(we can only chan
     This has been done to keep things simple because once the main method is finished executing, java program terminates.
 - __main__: it is an identifier (not a keyword). It is a name which is configured and is used by JVM to call the main method.
 - __String[] args__: Java main method accepts a single argument of type String array. This is also called as java command line arguments. 
+
+<br>
+
+__[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#java-language-basics)__
+
+<br>
 
 ## [Data Types](https://www.javatpoint.com/java-data-types) 
 Data types specify the different sizes and values that can be stored in the variable. There are two types of data types in Java:
