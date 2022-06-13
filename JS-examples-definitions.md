@@ -161,7 +161,8 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 
 <br>
 
-__[What does `public static void main(String[] args)` mean?](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)__   
+__[What does public static void main(String[] args) mean?](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)__    
+
 `public static void main(String[] args) is the most important Java method.`
 Java main method is the entry point of any java program.    
 Its syntax is always `public static void main(String[] args)` *(we can only change the name of String array argument, for example we can change` arg`s to `myStringArgs[]`)*.
