@@ -2,6 +2,7 @@
 
 ## [Functions](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#functions)
 #### [void](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#void--nameofthefunctionparameter----)
+#### [return](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#return)
 #### [main()](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#main)
 #### [class](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#class)
 #### [methods](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#methods)
