@@ -33,3 +33,8 @@
 ###### [Simplifiying IF statement(s)](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#simplifiying-if-statements)
 #### [The Ternary Operator](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#the-ternary-operator)
 #### [Switch Statement](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#switch-statement)
+#### [For Loops](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#for-loops)
+#### [While Loops](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#while-loops)
+#### [Do..While Loops](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#dowhile-loops)
+#### [For-Each Loop](https://github.com/Klosmi/Java-Basics/blob/main/JS-examples-definitions.md#for-each-loop)
+
