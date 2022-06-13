@@ -249,7 +249,7 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 
 <br>
 
-  - char:   2 bytes of the memory: A,B,C,...`
+  - char:   2 bytes of the memory: A,B,C,...
 
 <br>
 
