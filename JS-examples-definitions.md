@@ -165,7 +165,7 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 
 `public static void main(String[] args) is the most important Java method.`
 Java main method is the entry point of any java program.    
-Its syntax is always `public static void main(String[] args)` *(we can only change the name of String array argument, for example we can change `arg`s to `myStringArgs[]`)*.
+Its syntax is always `public static void main(String[] args)` *(we can only change the name of String array argument, for example we can change `args` to `myStringArgs[]`)*.
 
 - __public__: any object can use the main method. 
   - it is an access modifier. Specifies whoe and where can access this method. 
