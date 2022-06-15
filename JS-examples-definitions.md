@@ -1195,7 +1195,7 @@ A ternary operator evaluates the test condition and executes a block of code bas
   *Pro way*    
   *If the `income` is greater than 100_000 we put it in the first class, otherwise to the economy class.*   
 
-  *We have a string variable  which we want to set to adifferent string depending on the result of the expression. (We can not set it to a boolean, because it is a string type.) So we use the Teranry operator.*
+  *We have a string variable  which we want to set to adifferent string depending on the result of the expression. (We can not set it to a boolean, because it is a string type.) So we use the Ternary operator.*
   ```
   package com.exercise;
 
