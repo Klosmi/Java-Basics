@@ -284,7 +284,7 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 to store complex objects (date, mail messages, etc.)
 - we have to use the `new` keyword, to allocate memory for the variable
 - creating object: `Date today = new Date();` ← `today` is an instance of the `Date();` class. `Date()` is the blueprint of creating objects.
-- an object is an instance of a class: `obejct` + `.` `member`.   
+- an object is an instance of a class: `object` + `.` `member`.   
 Eg. `today.getTime()`
 - `Strings` are reference types
 
