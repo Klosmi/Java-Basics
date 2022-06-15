@@ -502,7 +502,7 @@ public class Main {
 // [1, 2, 0, 0, 0]
 ```
 
--eg.:   
+- eg.:   
 ❗️ __A simpler, newer way to initialize Arrays.__   
 *Using `{ }`*
 ```
