@@ -289,7 +289,7 @@ Eg. `today.getTime()`
 - `Strings` are reference types
 
 *Using different variables*
-*Print out the `Data` object: `System` is a class, followed by `.` operator to access System class's member. After the `out` is a field. Type of `out` filed is `PrintStream`, it is an other class in Java. After `.` and `println()` finction. In the `()` we pass the Date object.*     
+*Print out the `Data` object: `System` is a class, followed by `.` operator to access System class's member. After the `out` is a field. Type of `out` field is `PrintStream`, it is an other class in Java. After `.` and `println()` finction. In the `()` we pass the Date object.*     
 
 *So it looks like this `System.out.println(today);`*    
 💡 *Use `sout` shortcut to print the line above.*
