@@ -1313,8 +1313,9 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 
 <br>   
    
-#### __[While Loops](https://www.javatpoint.com/java-while-loop)__
-    while loop is used to iterate a part of the program repeatedly until the specified Boolean condition is true. As soon as the Boolean condition becomes false, the loop automatically stops.
+#### __[While Loops](https://www.javatpoint.com/java-while-loop)__.  
+
+while loop is used to iterate a part of the program repeatedly until the specified Boolean condition is true. As soon as the Boolean condition becomes false, the loop automatically stops.
 
 - while loops are used when we don't know how many times we wiant to repeat something.
 
