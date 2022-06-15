@@ -1149,7 +1149,11 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
   ```
 
 - eg.:   
-  *FizzBuzz*   
+  *FizzBuzz*    
+  *if the number is divisible by 5 we get fizz*    
+  *if the number is divisible by 3 we get buzz*    
+  *if the number is divisible by both 3 and 5 we get fizzbuzz*    
+  *if the number is not divisible by 3 or 5 we print out the same number*
   ```
   package com.fizzbuzz;
 
@@ -1157,10 +1161,7 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 
   public class Main {
       public static void main(String[] args) {
-          // if the number is divisible by 5 we get fizz
-          // if the number is divisible by 3 we get buzz
-          // if the number is divisible by both 3 and 5 we get fizzbuzz
-          // if the number is not divisible by 3 or 5 we print out the same number
+
           Scanner scanner = new Scanner(System.in);
           System.out.print("Give a number:" );
           int num = scanner.nextInt();
