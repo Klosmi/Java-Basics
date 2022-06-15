@@ -517,7 +517,7 @@ public class Main {
     }
 }
 
-// 5    //hte length of our string
+// 5    //the length of our string
 ```
 *Sorting*  
 ```
