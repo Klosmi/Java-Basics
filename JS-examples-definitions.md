@@ -771,9 +771,9 @@ Converts a data type into another data type in both ways manually and automatica
   ```
 ###### __Narrowing Casting (Explicit Casting)__
 
- - eg.:
- *We want to see `3` as a result. but we have a `double` and and an `int`. We have to __explicityl cast__ the result.*    
- *We have to  __cast__ `x` to an `int` like this: `int y = (int)x + 2`    
+ - eg.:   
+ *We want to see `3` as a result. But we have a `double` and and an `int`. We have to __explicityl cast__ the result.*       
+ *We have to  __cast__ `x` to an `int` like this: `int y = (int)x + 2`*    
 
   ```
   package com.tuto;
