@@ -628,7 +628,7 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 __+__    
 __-__   
 __*__    
-__/__ 
+__/__    
 __%__   
 
 - eg.:   
