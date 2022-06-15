@@ -1340,7 +1340,7 @@ while loop is used to iterate a part of the program repeatedly until the specifi
   *When we don't know how many times the loop has to run, therfore we use while loop.*     
   *The user can write anything many times. When the user writes "quit" the program stops.*   
 
-  *We compare if `input` is equal to `quit"`. We can not use the `input != "quit", because `input` is ` `String` a reference type, and we can not use comarison operators (`!=`) between reference types (technically it compares memory addresses of our String objects and not their value).*    
+  *We compare if `input` is equal to `"quit"`. We can not use the `input != "quit", because `input` is ` `String` a reference type, and we can not use comarison operators (`!=`) between reference types (technically it compares memory addresses of our String objects and not their value).*    
   *We have to use the `input.equals()` method.*
   ```
   package com.exercise;
