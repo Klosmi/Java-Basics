@@ -1287,7 +1287,7 @@ __[◀️ go back](https://github.com/Klosmi/Java-Basics/blob/main/README.md#jav
 #### __[For Loops](https://www.javatpoint.com/java-for-loop)__
    for loop is used to iterate (repeat) a part of the program several times.
 
-  -eg.:   
+  - eg.:   
     *5 times "Hello World!"*   
     *If it's 1 line expression, no need `{}`*
     ```
